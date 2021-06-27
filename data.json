@@ -1,1 +1,10 @@
-{"title":"test site","body":"This is a test site.","templates":{"home":"<!DOCTYPE HTML>\n<html>\n\n<head>\n\t<title>\n\t\t<_title />\n\t</title>\n\t<style>\n\t\t* {\n\t\t\tfont-size: 18px;\n\t\t}\n\n\t\t#page {\n\t\t\twidth: 800px;\n\t\t\tmargin: 0 auto;\n\t\t}\n\t</style>\n</head>\n\n<body>\n\t<div id=\"page\">\n\t\t<h1>\n\t\t\t<_title />\n\t\t</h1>\n\t\t<div id=\"content\">\n\t\t\t<_body />\n\t\t</div>\n\t</div>\n</body>\n\n</html>"},"nextId":0,"articles":{"0":{"id":"0","title":"","body":"Here is a test!"}}}
+{
+	"repo": "cipcine",
+	"title": "test site",
+	"body": "This is a test site.",
+	"templates": {
+		"home": "<!DOCTYPE HTML>\n<html>\n\n<head>\n\t<title>\n\t\t<_title />\n\t</title>\n\t<style>\n\t\t* {\n\t\t\tfont-size: 18px;\n\t\t}\n\n\t\t#page {\n\t\t\twidth: 800px;\n\t\t\tmargin: 0 auto;\n\t\t}\n\t</style>\n</head>\n\n<body>\n\t<div id=\"page\">\n\t\t<h1>\n\t\t\t<_title />\n\t\t</h1>\n\t\t<div id=\"content\">\n\t\t\t<_body />\n\t\t</div>\n\t</div>\n</body>\n\n</html>"
+	},
+	"nextId": 0,
+	"articles": {}
+}
